@@ -1,6 +1,6 @@
 <h1 align="center">Hi, soy Daniel Juarez </h1>
 
-<h3 align="center">Estudiante de Ingeniería en Computación · Desarrollador Full-Stack en formación</h3>
+<h3 align="center">Estudiante de Ingeniería en Sistemas Computacionales · Desarrollador Full-Stack en formación</h3>
 
 <p align="center">
   Desde Oaxaca, México 🇲🇽. Construyo aplicaciones web y herramientas para negocios locales
@@ -12,7 +12,7 @@
   <a href="mailto:juadaxis00@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="⟨URL de tu LinkedIn⟩">
+  <a href="www.linkedin.com/in/daniel-alexis-juarez-ramirez-b0a9112b6">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/DaniielA5">
@@ -24,7 +24,7 @@
 
 ## Sobre mí
 
-- 🎓 Cursando semestre de Ingeniería en Computación**
+- 🎓 Cursando semestre de Ingeniería en Sistemas Computacionales**
 - 💻 Enfocado en **desarrollo web full-stack** (React + TypeScript en frontend, Spring Boot y Node en backend)
 - 🌱 Actualmente aprendiendo más sobre **arquitectura de software y bases de datos relacionales**
 - 🛠️ Construyendo proyectos reales: un POS para una tienda local, una plataforma de asesorías..
@@ -36,7 +36,7 @@
 
 **Lenguajes**
 
-![Skills](https://skillicons.dev/icons?i=js,ts,java,python,html,css,sql)
+![Skills](https://skillicons.dev/icons?i=js,ts,java,python,cpp,html,css,sql)
 
 **Frontend**
 
@@ -44,11 +44,17 @@
 
 **Backend**
 
-![Skills](https://skillicons.dev/icons?i=spring,nodejs,hono)
+![Skills](https://skillicons.dev/icons?i=spring,nodejs)
 
 **Bases de datos**
 
-![Skills](https://skillicons.dev/icons?i=postgres,mysql)
+![Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)
+
+**Móvil**
+
+![Skills](https://skillicons.dev/icons?i=androidstudio)
+
+
 
 **Herramientas**
 
